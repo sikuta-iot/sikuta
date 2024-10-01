@@ -1,4 +1,4 @@
-#Smart Security Gadget
+#Smart Security Gadget:
 The Smart Security Gadget is an innovative and versatile security solution designed to enhance the safety of your home or office. By leveraging the power of Arduino components, this system integrates real-time monitoring, alerts, and surveillance capabilities into a compact device. With features like motion detection, distance measurement, and remote communication, you can ensure peace of mind whether you're at home or away.
 
 Components Used
